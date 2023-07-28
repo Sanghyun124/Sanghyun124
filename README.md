@@ -1,6 +1,6 @@
-### Hi there 👋
+### Building Cornerstone...
 
-# 안녕하세요!! 저는 박상현입니다. 클라우드 엔지니어를 꿈꾸고 있습니다!!!!
+# 기초가 단단해야 무너지지 않는다!
 
 <!--
 **Sanghyun124/Sanghyun124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
