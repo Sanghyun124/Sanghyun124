@@ -1,3 +1,5 @@
+![image](./image.jpeg)  
+
 ### Building Cornerstone...
 
 # 기초가 단단해야 무너지지 않는다!
